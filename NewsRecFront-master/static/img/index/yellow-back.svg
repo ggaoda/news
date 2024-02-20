@@ -1,0 +1,16 @@
+<svg width="350" height="100" viewBox="0 0 350 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.07">
+<path d="M178 20V52L210 20H178Z" fill="#E9940A"/>
+<path d="M123 50V-6L67 50H123Z" fill="#FFAF2E"/>
+<path d="M123 106V50L67 106H123Z" fill="#FFAF2E"/>
+<path d="M179 50V106L123 50H179Z" fill="#FFAF2E"/>
+<circle cx="240.5" cy="105.5" r="45.5" transform="rotate(-180 240.5 105.5)" fill="#E2660C"/>
+<circle cx="9.5" cy="74.5" r="46.5" transform="rotate(-180 9.5 74.5)" fill="#E2660C"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="-37" y="28" width="93" height="93">
+<circle cx="9.5" cy="74.5" r="46.5" transform="rotate(-180 9.5 74.5)" fill="#FABC58"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="56" y="121" width="93" height="50" transform="rotate(-180 56 121)" fill="#FFAF2E"/>
+</g>
+</g>
+</svg>

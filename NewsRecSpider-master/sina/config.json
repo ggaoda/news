@@ -1,0 +1,32 @@
+{
+  "dataPath": {
+    "MODEL_WEIGHTS_PATH": "D:\\sinaSpider_2\\sina\\resource\\model_weights.h5",
+    "WORD_EMBEDDING_PATH": "D:\\sinaSpider_2\\sina\\resource\\embedding_500000.txt",
+    "DICT_PATH": "D:\\sinaSpider_2\\sina\\resource\\dict.txt"
+  },
+  "modelConfig": {
+    "titleMaxLen": 20,
+    "similarNewsDay": 432000
+  },
+  "recallRate": {
+    "userInteresting": 0.75,
+    "history": 0.7,
+    "highRate": 0.9,
+    "totalRecall": 0.95
+  },
+  "DBConfig": {
+    "mongoDB": {
+      "name": "news_recommender"
+    },
+    "redis": {
+      "expires": 1800,
+      "host": "127.0.0.1",
+      "port": 6379
+    }
+  },
+  "hostPort": 5000,
+  "embeddingConfig": {
+    "wordLimit": 100000,
+    "limit": true
+  }
+}

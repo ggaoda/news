@@ -1,0 +1,24 @@
+spring:
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: news_recommender
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 100MB
+      max-request-size: 100MB
+logging:
+  level:
+    org.springframework:
+      web: debug
+      data: debug
+    org:
+      hibernate:
+        stat: debug
+    org.mybatis: debug
+    com.dy.springboot.server.mapper: debug
+    com.spring.jiminshiro.mapper: debug
+server:
+  port: 8080

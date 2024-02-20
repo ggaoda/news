@@ -1,0 +1,21 @@
+<svg width="350" height="100" viewBox="0 0 350 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="-1" y="-200" width="558" height="300">
+<path d="M-1 -194C-1 -197.314 1.68629 -200 5 -200H551C554.314 -200 557 -197.314 557 -194V94C557 97.3137 554.314 100 551 100H4.99999C1.68629 100 -1 97.3137 -1 94V-194Z" fill="#4D55E8"/>
+</mask>
+<g mask="url(#mask0)">
+<g opacity="0.07">
+<path opacity="0.7" d="M265 62L321 62L265 118L265 62Z" fill="#0C55E2"/>
+<path opacity="0.5" d="M96 50V20L66 50H96Z" fill="#0C55E2"/>
+<path opacity="0.5" d="M96 103V47L40 103H96Z" fill="#0C55E2"/>
+<path opacity="0.5" d="M152 47V103L96 47H152Z" fill="#0C55E2"/>
+<circle cx="213.5" cy="102.5" r="45.5" transform="rotate(-180 213.5 102.5)" fill="#0C55E2"/>
+<circle cx="-17.5" cy="71.5" r="46.5" transform="rotate(-180 -17.5 71.5)" fill="#0C55E2"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="-64" y="25" width="93" height="93">
+<circle cx="-17.5" cy="71.5" r="46.5" transform="rotate(-180 -17.5 71.5)" fill="#0C55E2"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="29" y="118" width="93" height="50" transform="rotate(-180 29 118)" fill="#87AFFC"/>
+</g>
+</g>
+</g>
+</svg>
