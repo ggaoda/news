@@ -28,7 +28,8 @@ export default {
       return this.get(this.newsBaseUrl + "/getChannels")
     },
     getNewsByChannelApi(channelName, pageNum) {
-      return this.get(this.newsBaseUrl + "/getNewsListByChannelName", {channelName: channelName, pageNum: pageNum})
+       return this.get(this.newsBaseUrl + "/getNewsListByChannelName", {channelName: channelName, pageNum: pageNum})
+
     },
     getNewsByIdApi(newsId) {
       return this.get(this.newsBaseUrl, {newsId: newsId})

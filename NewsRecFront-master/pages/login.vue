@@ -88,8 +88,8 @@ export default {
   data: function () {
     return {
       user: {
-        email: "335767798@qq.com",
-        password: "15250823423"
+        email: "1719923044@qq.com",
+        password: "1719923044"
       },
       emailRules: [
         v => !!v || '邮箱不可为空'

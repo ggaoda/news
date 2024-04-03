@@ -189,13 +189,13 @@ export default {
       show2: false,
       flag: false,
       user: {
-        nickname: "yaser",
-        password: "15250823423",
+        nickname: "gaoda",
+        password: "1719923044",
         gender: 0,
-        email: "335767798@qq.com",
+        email: "1719923044@qq.com",
       },
-      password1: '15250823423',
-      password2: '15250823423',
+      password1: '1719923044',
+      password2: '1719923044',
       errorMsg: "",
       emailMsg: '',
       passwordRules: [
